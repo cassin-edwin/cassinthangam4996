@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a graduate student in UT Dallas in Data Science.
-I had previously worked as a Data Analyst in Accenture.
+I am currently a graduate student in UT Dallas in Data Science.
